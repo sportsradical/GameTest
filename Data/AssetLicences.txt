@@ -1,0 +1,30 @@
+Pistol & Hangar, models and textures
+ - Licensed privately for use in bs::framework example projects only. Created by Danijel Ribiæ.
+
+Paper mill HDR environment map
+ - Grabbed from: http://www.hdrlabs.com/sibl/archive.html
+ - Licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. 
+ - License terms: https://creativecommons.org/licenses/by-nc-sa/3.0/us/
+ 
+Night Owl music by Broke For Free
+ - Grabbed from: http://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_01_Night_Owl
+ - Licensed under the Creative Commons Attribution License 3.0
+ - License terms: https://creativecommons.org/licenses/by/3.0/
+ 
+Gun shot sound
+ - Grabbed from: https://freesound.org/people/Bird_man/sounds/275151/
+ - Licensed under the Create Commons 0 License
+ - License terms: https://creativecommons.org/publicdomain/zero/1.0/
+ 
+Filtered piano amient sound
+ - Grabbed from: https://freesound.org/people/Erokia/sounds/424154/
+ - Licensed under the Creative Commons Attribution License 3.0
+ - License terms: https://creativecommons.org/licenses/by/3.0/
+ 
+Mech Drone, models and textures
+ - Created by Willy Decarpentrie
+ - Grabbed from: https://sketchfab.com/models/8d06874aac5246c59edb4adbe3606e0e#
+ - Modified:
+  - Gloss & specular textures converted to roughness & metalness
+ - Licensed under the Creative Commons Attribution License 4.0
+ - License terms: https://creativecommons.org/licenses/by/4.0/
