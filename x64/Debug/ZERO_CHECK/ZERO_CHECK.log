@@ -1,0 +1,14 @@
+﻿  Checking Build System
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/bsf/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/bsf/Foundation/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/bsf/Plugins/bsfD3D11RenderAPI/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/bsf/Plugins/bsfOpenAudio/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/bsf/Plugins/bsfRenderBeast/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/bsf/Plugins/bsfPhysX/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/bsf/Plugins/bsfFBXImporter/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/bsf/Plugins/bsfFontImporter/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/bsf/Plugins/bsfFreeImgImporter/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/bsf/Plugins/bsfSL/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/source/Common/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/fiipe/Desktop/Demo/build/source/Game/CMakeFiles/generate.stamp is up-to-date.
